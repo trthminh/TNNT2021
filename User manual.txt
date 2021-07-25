@@ -1,2 +1,2 @@
 1. Download 2 files r21.exe and no_data.xlsx to your computer
-2. Click on find_rank.exe file to use
+2. Click on r21.exe file to use
